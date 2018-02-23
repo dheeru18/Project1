@@ -1,3 +1,3 @@
 # Project1
-!/bion/sh
+!/bin/sh
 echo "Hello world"
